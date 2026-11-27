@@ -1,20 +1,26 @@
-# VANSH CUISINE 360 — V2 transfer staging
+# VANSH CUISINE 360 — V2 Preview
 
-This branch is reserved for the separate V2 project. The complete local V2 package is available in the ChatGPT conversation as `VANSH-CUISINE-360-V2.zip`.
+A separate premium V2 customer-facing restaurant app.
 
-## Transfer status
+## Included in this branch
+- Main page, responsive stylesheet and app logic
+- Digital menu data (27 categories / 181 menu entries)
+- WhatsApp order request and party/function enquiry flows
+- PWA manifest and service worker
+- SVG app icons in `assets/icons/`
+- Audit report
 
-**Not yet deployed.** The complete source package and its three WebP image assets have not yet been transferred into this repository. Incomplete placeholder HTML, CSS, manifest and service-worker files were removed so this branch does not present a broken page as a working preview.
+## Image assets
+The three WebP images (hero pizza, Indian thali, restaurant interior) have been generated and packaged separately as `VANSH-CUISINE-360-V2-IMAGE-ASSETS.zip`. They still need to be added to `assets/images/` in this repository. Until then, the homepage photo slots will not render.
 
-## Local project contents
+## Deployment status
+Not ready for public deployment yet. Add the three WebP files, then verify the GitHub Pages preview and test on a real Android device.
 
-- `index.html`, `style.css`, `app.js`
-- `menu-data.json` (27 categories, 181 menu entries)
-- `manifest.json`, `service-worker.js`
-- `assets/images/` — three generated WebP images
-- `assets/icons/` — two SVG icons
-- `AUDIT-REPORT.md`
+## Limitations
+- Hindi toggle currently changes the homepage introduction/tagline only.
+- No online payment gateway is included.
+- WhatsApp order and party booking are requests only; restaurant confirmation is required.
+- Generated food/restaurant imagery is illustrative, not verified photography of the actual premises or dishes.
+- Some source menu entries are flagged for owner verification.
 
-## Next steps
-
-Transfer all original V2 source and image assets, verify the complete file tree, run browser tests, and only then enable a separate Pages preview. The existing customer app under `businesses/vansh-cuisine-360/` is not being replaced.
+The original V1 and `main` branch are not modified.
