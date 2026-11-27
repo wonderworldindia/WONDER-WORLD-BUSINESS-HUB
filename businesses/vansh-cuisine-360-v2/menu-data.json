@@ -1,0 +1,1000 @@
+{
+  "restaurant": "VANSH CUISINE 360",
+  "currency": "INR",
+  "categories": [
+    "Burger",
+    "Pizza",
+    "Pasta",
+    "Sides",
+    "Veg. Hot Dog",
+    "Between the Breads",
+    "Sandwich",
+    "Soup",
+    "Starters",
+    "Pav Bhaji",
+    "Dosa",
+    "Main Course",
+    "Wholesome Meals",
+    "Coffee",
+    "Milk Shakes",
+    "Mocktails",
+    "Special Kulhad Lassi",
+    "Juice",
+    "Cakes Without Egg",
+    "Naan Plate",
+    "Thali",
+    "Papad & Sides",
+    "Momos",
+    "Indian Food",
+    "Breads",
+    "Rice & Biryani",
+    "Beverages"
+  ],
+  "items": [
+    {
+      "id": "dish-1",
+      "category": "Burger",
+      "name": "Veggie Burger",
+      "price": 60,
+      "priceType": "fixed",
+      "sourcePage": 2,
+      "verify": false
+    },
+    {
+      "id": "dish-2",
+      "category": "Burger",
+      "name": "Veggie Burger with Cheese",
+      "price": 80,
+      "priceType": "fixed",
+      "sourcePage": 2,
+      "verify": false
+    },
+    {
+      "id": "dish-3",
+      "category": "Burger",
+      "name": "Veggie Burger with Cheese French Fries",
+      "price": 90,
+      "priceType": "fixed",
+      "sourcePage": 2,
+      "verify": true
+    },
+    {
+      "id": "dish-4",
+      "category": "Burger",
+      "name": "Extra Cheese Burger",
+      "price": 110,
+      "priceType": "fixed",
+      "sourcePage": 2,
+      "verify": false
+    },
+    {
+      "id": "dish-5",
+      "category": "Burger",
+      "name": "Extra Cheese Burger with French Fries",
+      "price": 120,
+      "priceType": "fixed",
+      "sourcePage": 2,
+      "verify": false
+    },
+    {
+      "id": "dish-6",
+      "category": "Burger",
+      "name": "Paneer Burger",
+      "price": 100,
+      "priceType": "fixed",
+      "sourcePage": 2,
+      "verify": false
+    },
+    {
+      "id": "dish-7",
+      "category": "Burger",
+      "name": "Paneer Burger with Cheese",
+      "price": 120,
+      "priceType": "fixed",
+      "sourcePage": 2,
+      "verify": false
+    },
+    {
+      "id": "dish-8",
+      "category": "Burger",
+      "name": "Paneer Burger with Cheese French Fries",
+      "price": 120,
+      "priceType": "fixed",
+      "sourcePage": 2,
+      "verify": false
+    },
+    {
+      "id": "dish-9",
+      "category": "Burger",
+      "name": "French Fries",
+      "price": null,
+      "priceType": "MRP",
+      "sourcePage": 2,
+      "verify": true
+    },
+    {
+      "id": "dish-10",
+      "category": "Burger",
+      "name": "Potato Cheese Blast Burger",
+      "price": 140,
+      "priceType": "fixed",
+      "sourcePage": 2,
+      "verify": false
+    },
+    {
+      "id": "dish-11",
+      "category": "Burger",
+      "name": "Potato Cheese Blast Burger with Cheese",
+      "price": 100,
+      "priceType": "fixed",
+      "sourcePage": 2,
+      "verify": true
+    },
+    {
+      "id": "dish-12",
+      "category": "Burger",
+      "name": "Potato Cheese Blast Burger with Cheese French Fries",
+      "price": 100,
+      "priceType": "fixed",
+      "sourcePage": 2,
+      "verify": true
+    },
+    {
+      "id": "dish-13",
+      "category": "Burger",
+      "name": "Double Patty Mega Burger",
+      "price": 120,
+      "priceType": "fixed",
+      "sourcePage": 2,
+      "verify": false
+    },
+    {
+      "id": "dish-14",
+      "category": "Burger",
+      "name": "Double Patty Mega Burger with Cheese",
+      "price": 120,
+      "priceType": "fixed",
+      "sourcePage": 2,
+      "verify": false
+    },
+    {
+      "id": "dish-15",
+      "category": "Burger",
+      "name": "Double Patty Mega Burger with Cheese French Fries",
+      "price": 150,
+      "priceType": "fixed",
+      "sourcePage": 2,
+      "verify": false
+    },
+    {
+      "id": "dish-16",
+      "category": "Pizza",
+      "name": "Margarita Pizza (8 inches)",
+      "price": 149,
+      "priceType": "fixed",
+      "sourcePage": 3,
+      "verify": false
+    },
+    {
+      "id": "dish-17",
+      "category": "Pizza",
+      "name": "Veggie Lover Pizza (8 inches)",
+      "price": 179,
+      "priceType": "fixed",
+      "sourcePage": 3,
+      "verify": false
+    },
+    {
+      "id": "dish-18",
+      "category": "Pizza",
+      "name": "Indo Masala Paneer Pizza (8 inches)",
+      "price": 190,
+      "priceType": "fixed",
+      "sourcePage": 3,
+      "verify": false
+    },
+    {
+      "id": "dish-19",
+      "category": "Pizza",
+      "name": "Mammaji Italian Pizza (8 inches)",
+      "price": 180,
+      "priceType": "fixed",
+      "sourcePage": 3,
+      "verify": false
+    },
+    {
+      "id": "dish-20",
+      "category": "Pizza",
+      "name": "Hawaiian Pizza (8 inches)",
+      "price": 190,
+      "priceType": "fixed",
+      "sourcePage": 3,
+      "verify": false
+    },
+    {
+      "id": "dish-21",
+      "category": "Pizza",
+      "name": "Tomato Pizza (8 inches)",
+      "price": 159,
+      "priceType": "fixed",
+      "sourcePage": 3,
+      "verify": false
+    },
+    {
+      "id": "dish-22",
+      "category": "Pizza",
+      "name": "Capsicums Pizza (8 inches)",
+      "price": 159,
+      "priceType": "fixed",
+      "sourcePage": 3,
+      "verify": false
+    },
+    {
+      "id": "dish-23",
+      "category": "Pizza",
+      "name": "Onion Pizza (8 inches)",
+      "price": 159,
+      "priceType": "fixed",
+      "sourcePage": 3,
+      "verify": false
+    },
+    {
+      "id": "dish-24",
+      "category": "Pizza",
+      "name": "Corn Pizza (8 inches)",
+      "price": 175,
+      "priceType": "fixed",
+      "sourcePage": 3,
+      "verify": false
+    },
+    {
+      "id": "dish-25",
+      "category": "Pasta",
+      "name": "Arabita Pasta (Red sauce)",
+      "price": 150,
+      "priceType": "fixed",
+      "sourcePage": 4,
+      "verify": false
+    },
+    {
+      "id": "dish-26",
+      "category": "Pasta",
+      "name": "Tomato Cream Pasta",
+      "price": 160,
+      "priceType": "fixed",
+      "sourcePage": 4,
+      "verify": false
+    },
+    {
+      "id": "dish-27",
+      "category": "Pasta",
+      "name": "Alfredo Pasta (White sauce)",
+      "price": 170,
+      "priceType": "fixed",
+      "sourcePage": 4,
+      "verify": false
+    },
+    {
+      "id": "dish-28",
+      "category": "Sides",
+      "name": "Garlic Bread",
+      "price": 80,
+      "priceType": "fixed",
+      "sourcePage": 4,
+      "verify": false
+    },
+    {
+      "id": "dish-29",
+      "category": "Sides",
+      "name": "Garlic Bread with Cheese",
+      "price": 100,
+      "priceType": "fixed",
+      "sourcePage": 4,
+      "verify": false
+    },
+    {
+      "id": "dish-30",
+      "category": "Sides",
+      "name": "Open Italian Cheese Toast",
+      "price": 129,
+      "priceType": "fixed",
+      "sourcePage": 4,
+      "verify": false
+    },
+    {
+      "id": "dish-31",
+      "category": "Sides",
+      "name": "Tomato Caper Bruschetta",
+      "price": 125,
+      "priceType": "fixed",
+      "sourcePage": 4,
+      "verify": false
+    },
+    {
+      "id": "dish-32",
+      "category": "Veg. Hot Dog",
+      "name": "Saucy Veg Hot Dog",
+      "price": 90,
+      "priceType": "fixed",
+      "sourcePage": 4,
+      "verify": false
+    },
+    {
+      "id": "dish-33",
+      "category": "Veg. Hot Dog",
+      "name": "Paneer Hot Dog",
+      "price": 110,
+      "priceType": "fixed",
+      "sourcePage": 4,
+      "verify": false
+    },
+    {
+      "id": "dish-34",
+      "category": "Veg. Hot Dog",
+      "name": "Mushroom Hot Dog",
+      "price": 119,
+      "priceType": "fixed",
+      "sourcePage": 4,
+      "verify": false
+    },
+    {
+      "id": "dish-35",
+      "category": "Between the Breads",
+      "name": "Vegetable Cheese Grilled Sandwich",
+      "price": 120,
+      "priceType": "fixed",
+      "sourcePage": 5,
+      "verify": false
+    },
+    {
+      "id": "dish-36",
+      "category": "Between the Breads",
+      "name": "Mumbai Se Aya Mera Toast",
+      "price": 100,
+      "priceType": "fixed",
+      "sourcePage": 5,
+      "verify": false
+    },
+    {
+      "id": "dish-37",
+      "category": "Between the Breads",
+      "name": "Cheese and Chilly Toast",
+      "price": 100,
+      "priceType": "fixed",
+      "sourcePage": 5,
+      "verify": false
+    },
+    {
+      "id": "dish-38",
+      "category": "Between the Breads",
+      "name": "Heaven Nutella Toast",
+      "price": 110,
+      "priceType": "fixed",
+      "sourcePage": 5,
+      "verify": false
+    },
+    {
+      "id": "dish-39",
+      "category": "Between the Breads",
+      "name": "Spicy BBQ Sandwich",
+      "price": 209,
+      "priceType": "fixed",
+      "sourcePage": 5,
+      "verify": false
+    },
+    {
+      "id": "dish-40",
+      "category": "Between the Breads",
+      "name": "Paneer Toast",
+      "price": 100,
+      "priceType": "fixed",
+      "sourcePage": 5,
+      "verify": false
+    },
+    {
+      "id": "dish-41",
+      "category": "Between the Breads",
+      "name": "Pizza Sandwich",
+      "price": 110,
+      "priceType": "fixed",
+      "sourcePage": 5,
+      "verify": false
+    },
+    {
+      "id": "dish-42",
+      "category": "Sandwich",
+      "name": "Vegetable Grilled Sandwich",
+      "price": 90,
+      "priceType": "fixed",
+      "sourcePage": 5,
+      "verify": false
+    },
+    {
+      "id": "dish-43",
+      "category": "Sandwich",
+      "name": "Paneer Cheese Sandwich",
+      "price": 130,
+      "priceType": "fixed",
+      "sourcePage": 5,
+      "verify": false
+    },
+    {
+      "id": "dish-44",
+      "category": "Sandwich",
+      "name": "Tandoori Cheese Sandwich",
+      "price": 120,
+      "priceType": "fixed",
+      "sourcePage": 5,
+      "verify": false
+    },
+    {
+      "id": "dish-45",
+      "category": "Sandwich",
+      "name": "Tandoori Paneer Sandwich",
+      "price": 110,
+      "priceType": "fixed",
+      "sourcePage": 5,
+      "verify": false
+    },
+    {
+      "id": "dish-46",
+      "category": "Sandwich",
+      "name": "Tandoori Paneer Cheese Sandwich",
+      "price": 130,
+      "priceType": "fixed",
+      "sourcePage": 5,
+      "verify": false
+    },
+    {
+      "id": "dish-47",
+      "category": "Sandwich",
+      "name": "VC Special Double Decker's Sandwich",
+      "price": 160,
+      "priceType": "fixed",
+      "sourcePage": 5,
+      "verify": false
+    },
+    {
+      "id": "dish-48",
+      "category": "Soup",
+      "name": "Cream of Tomato",
+      "price": 115,
+      "priceType": "fixed",
+      "sourcePage": 6,
+      "verify": false
+    },
+    {
+      "id": "dish-49",
+      "category": "Soup",
+      "name": "Manchow",
+      "price": 119,
+      "priceType": "fixed",
+      "sourcePage": 6,
+      "verify": false
+    },
+    {
+      "id": "dish-50",
+      "category": "Soup",
+      "name": "Sweet Corn",
+      "price": 100,
+      "priceType": "fixed",
+      "sourcePage": 6,
+      "verify": false
+    },
+    {
+      "id": "dish-51",
+      "category": "Soup",
+      "name": "Veg Clear Soup",
+      "price": 99,
+      "priceType": "fixed",
+      "sourcePage": 6,
+      "verify": false
+    },
+    {
+      "id": "dish-52",
+      "category": "Soup",
+      "name": "Lemon Coriander Soup",
+      "price": 110,
+      "priceType": "fixed",
+      "sourcePage": 6,
+      "verify": false
+    },
+    {
+      "id": "dish-53",
+      "category": "Starters",
+      "name": "Cheese Corn Balls",
+      "price": 99,
+      "priceType": "fixed",
+      "sourcePage": 6,
+      "verify": false
+    },
+    {
+      "id": "dish-54",
+      "category": "Starters",
+      "name": "Hot Cheesy Vegetable Logs",
+      "price": 110,
+      "priceType": "fixed",
+      "sourcePage": 6,
+      "verify": false
+    },
+    {
+      "id": "dish-55",
+      "category": "Starters",
+      "name": "Cheesy French Fries and Wedges",
+      "price": 119,
+      "priceType": "fixed",
+      "sourcePage": 6,
+      "verify": false
+    },
+    {
+      "id": "dish-56",
+      "category": "Starters",
+      "name": "Classic Salted French Fries",
+      "price": 105,
+      "priceType": "fixed",
+      "sourcePage": 6,
+      "verify": false
+    },
+    {
+      "id": "dish-57",
+      "category": "Starters",
+      "name": "Herbed Potato Wedges",
+      "price": 99,
+      "priceType": "fixed",
+      "sourcePage": 6,
+      "verify": false
+    },
+    {
+      "id": "dish-58",
+      "category": "Starters",
+      "name": "Nachos with Cheese",
+      "price": 150,
+      "priceType": "fixed",
+      "sourcePage": 6,
+      "verify": false
+    },
+    {
+      "id": "dish-59",
+      "category": "Starters",
+      "name": "Honey Chilly Potatoes",
+      "price": 159,
+      "priceType": "fixed",
+      "sourcePage": 6,
+      "verify": false
+    },
+    {
+      "id": "dish-60",
+      "category": "Starters",
+      "name": "Barbecue Paneer Satay",
+      "price": 179,
+      "priceType": "fixed",
+      "sourcePage": 6,
+      "verify": false
+    },
+    {
+      "id": "dish-61",
+      "category": "Starters",
+      "name": "Indo Chinese Paneer Chilly",
+      "price": 169,
+      "priceType": "fixed",
+      "sourcePage": 6,
+      "verify": false
+    },
+    {
+      "id": "dish-62",
+      "category": "Starters",
+      "name": "Parky Parry French Fries",
+      "price": 120,
+      "priceType": "fixed",
+      "sourcePage": 6,
+      "verify": false
+    },
+    {
+      "id": "dish-63",
+      "category": "Starters",
+      "name": "Potato Wedges",
+      "price": 100,
+      "priceType": "fixed",
+      "sourcePage": 6,
+      "verify": false
+    },
+    {
+      "id": "dish-64",
+      "category": "Starters",
+      "name": "Chilly Potatoes",
+      "price": 150,
+      "priceType": "fixed",
+      "sourcePage": 6,
+      "verify": false
+    },
+    {
+      "id": "dish-65",
+      "category": "Pav Bhaji",
+      "name": "Pav Bhaji",
+      "price": 79,
+      "priceType": "fixed",
+      "sourcePage": 7,
+      "verify": false
+    },
+    {
+      "id": "dish-66",
+      "category": "Pav Bhaji",
+      "name": "Paneer Pav Bhaji",
+      "price": 99,
+      "priceType": "fixed",
+      "sourcePage": 7,
+      "verify": false
+    },
+    {
+      "id": "dish-67",
+      "category": "Pav Bhaji",
+      "name": "Cheese Pav Bhaji",
+      "price": 119,
+      "priceType": "fixed",
+      "sourcePage": 7,
+      "verify": false
+    },
+    {
+      "id": "dish-68",
+      "category": "Pav Bhaji",
+      "name": "Extra Pav",
+      "price": 20,
+      "priceType": "fixed",
+      "sourcePage": 7,
+      "verify": false
+    },
+    {
+      "id": "dish-69",
+      "category": "Dosa",
+      "name": "Sada Dosa",
+      "price": 50,
+      "priceType": "fixed",
+      "sourcePage": 7,
+      "verify": false
+    },
+    {
+      "id": "dish-70",
+      "category": "Dosa",
+      "name": "Masala Dosa",
+      "price": 70,
+      "priceType": "fixed",
+      "sourcePage": 7,
+      "verify": false
+    },
+    {
+      "id": "dish-71",
+      "category": "Dosa",
+      "name": "Paneer Dosa",
+      "price": 90,
+      "priceType": "fixed",
+      "sourcePage": 7,
+      "verify": false
+    },
+    {
+      "id": "dish-72",
+      "category": "Dosa",
+      "name": "Cheese Dosa",
+      "price": 90,
+      "priceType": "fixed",
+      "sourcePage": 7,
+      "verify": false
+    },
+    {
+      "id": "dish-73",
+      "category": "Main Course",
+      "name": "Chilli Baby Corn",
+      "price": 200,
+      "priceType": "fixed",
+      "sourcePage": 8,
+      "verify": false
+    },
+    {
+      "id": "dish-74",
+      "category": "Main Course",
+      "name": "Manchurian in Gravy",
+      "price": 150,
+      "priceType": "fixed",
+      "sourcePage": 8,
+      "verify": false
+    },
+    {
+      "id": "dish-75",
+      "category": "Main Course",
+      "name": "Paneer Chilli in Gravy",
+      "price": 180,
+      "priceType": "fixed",
+      "sourcePage": 8,
+      "verify": false
+    },
+    {
+      "id": "dish-76",
+      "category": "Main Course",
+      "name": "Hakka Noodles",
+      "price": 99,
+      "priceType": "fixed",
+      "sourcePage": 8,
+      "verify": false
+    },
+    {
+      "id": "dish-77",
+      "category": "Main Course",
+      "name": "Soupy Noodles",
+      "price": 120,
+      "priceType": "fixed",
+      "sourcePage": 8,
+      "verify": false
+    },
+    {
+      "id": "dish-78",
+      "category": "Main Course",
+      "name": "Paneer Schezwan Noodles",
+      "price": 149,
+      "priceType": "fixed",
+      "sourcePage": 8,
+      "verify": false
+    },
+    {
+      "id": "dish-79",
+      "category": "Main Course",
+      "name": "Paneer Hakka Noodles",
+      "price": 149,
+      "priceType": "fixed",
+      "sourcePage": 8,
+      "verify": false
+    },
+    {
+      "id": "dish-80",
+      "category": "Main Course",
+      "name": "Fried Rice",
+      "price": 110,
+      "priceType": "fixed",
+      "sourcePage": 8,
+      "verify": false
+    },
+    {
+      "id": "dish-81",
+      "category": "Main Course",
+      "name": "Paneer Fried Rice",
+      "price": 139,
+      "priceType": "fixed",
+      "sourcePage": 8,
+      "verify": false
+    },
+    {
+      "id": "dish-82",
+      "category": "Main Course",
+      "name": "Schezwan Fried Rice",
+      "price": 139,
+      "priceType": "fixed",
+      "sourcePage": 8,
+      "verify": false
+    },
+    {
+      "id": "dish-83",
+      "category": "Main Course",
+      "name": "Crispy Corn Honey",
+      "price": 200,
+      "priceType": "fixed",
+      "sourcePage": 8,
+      "verify": false
+    },
+    {
+      "id": "dish-84",
+      "category": "Wholesome Meals",
+      "name": "Chinese Sizzler",
+      "price": 300,
+      "priceType": "fixed",
+      "sourcePage": 8,
+      "verify": false
+    },
+    {
+      "id": "dish-85",
+      "category": "Wholesome Meals",
+      "name": "A Hot Mess",
+      "price": 200,
+      "priceType": "fixed",
+      "sourcePage": 8,
+      "verify": false
+    },
+    {
+      "id": "dish-86",
+      "category": "Wholesome Meals",
+      "name": "Tangy Pan Fried Noodles",
+      "price": 150,
+      "priceType": "fixed",
+      "sourcePage": 8,
+      "verify": false
+    },
+    {
+      "id": "dish-87",
+      "category": "Coffee",
+      "name": "Hot Coffee",
+      "price": 40,
+      "priceType": "fixed",
+      "sourcePage": 9,
+      "verify": false
+    },
+    {
+      "id": "dish-88",
+      "category": "Coffee",
+      "name": "Cold Coffee",
+      "price": 80,
+      "priceType": "fixed",
+      "sourcePage": 9,
+      "verify": false
+    },
+    {
+      "id": "dish-89",
+      "category": "Coffee",
+      "name": "Cold Coffee with Ice Cream",
+      "price": 100,
+      "priceType": "fixed",
+      "sourcePage": 9,
+      "verify": false
+    },
+    {
+      "id": "dish-90",
+      "category": "Milk Shakes",
+      "name": "Orio Milk Shake",
+      "price": 110,
+      "priceType": "fixed",
+      "sourcePage": 9,
+      "verify": false
+    },
+    {
+      "id": "dish-91",
+      "category": "Milk Shakes",
+      "name": "Kit Kat Milk Shake",
+      "price": 110,
+      "priceType": "fixed",
+      "sourcePage": 9,
+      "verify": false
+    },
+    {
+      "id": "dish-92",
+      "category": "Milk Shakes",
+      "name": "Chocolate Milk Shake",
+      "price": 105,
+      "priceType": "fixed",
+      "sourcePage": 9,
+      "verify": false
+    },
+    {
+      "id": "dish-93",
+      "category": "Milk Shakes",
+      "name": "Badam Milk Shake",
+      "price": 115,
+      "priceType": "fixed",
+      "sourcePage": 9,
+      "verify": false
+    },
+    {
+      "id": "dish-94",
+      "category": "Milk Shakes",
+      "name": "Vanilla Milk Shake",
+      "price": 105,
+      "priceType": "fixed",
+      "sourcePage": 9,
+      "verify": false
+    },
+    {
+      "id": "dish-95",
+      "category": "Milk Shakes",
+      "name": "Butter Scotch Milk Shake",
+      "price": 110,
+      "priceType": "fixed",
+      "sourcePage": 9,
+      "verify": false
+    },
+    {
+      "id": "dish-96",
+      "category": "Milk Shakes",
+      "name": "Strawberry Milk Shake",
+      "price": 100,
+      "priceType": "fixed",
+      "sourcePage": 9,
+      "verify": false
+    },
+    {
+      "id": "dish-97",
+      "category": "Milk Shakes",
+      "name": "Pine Apple Milk Shake",
+      "price": 100,
+      "priceType": "fixed",
+      "sourcePage": 9,
+      "verify": false
+    },
+    {
+      "id": "dish-98",
+      "category": "Milk Shakes",
+      "name": "Mango Milk Shake",
+      "price": 90,
+      "priceType": "fixed",
+      "sourcePage": 9,
+      "verify": false
+    },
+    {
+      "id": "dish-99",
+      "category": "Milk Shakes",
+      "name": "Banana Milk Shake",
+      "price": 60,
+      "priceType": "fixed",
+      "sourcePage": 9,
+      "verify": false
+    },
+    {
+      "id": "dish-100",
+      "category": "Mocktails",
+      "name": "Maint Mojito",
+      "price": 100,
+      "priceType": "fixed",
+      "sourcePage": 9,
+      "verify": false
+    },
+    {
+      "id": "dish-101",
+      "category": "Mocktails",
+      "name": "Water Melon",
+      "price": 90,
+      "priceType": "fixed",
+      "sourcePage": 9,
+      "verify": false
+    },
+    {
+      "id": "dish-102",
+      "category": "Mocktails",
+      "name": "Blue Cracko",
+      "price": 90,
+      "priceType": "fixed",
+      "sourcePage": 9,
+      "verify": false
+    },
+    {
+      "id": "dish-103",
+      "category": "Mocktails",
+      "name": "Lemon Ice Tea",
+      "price": 80,
+      "priceType": "fixed",
+      "sourcePage": 9,
+      "verify": false
+    },
+    {
+      "id": "dish-104",
+      "category": "Special Kulhad Lassi",
+      "name": "Lassi 200 ml",
+      "price": 30,
+      "priceType": "fixed",
+      "sourcePage": 10,
+      "verify": false
+    },
+    {
+      "id": "dish-105",
+      "category": "Special Kulhad Lassi",
+      "name": "Lassi 250 ml",
+      "price": 40,
+      "priceType": "fixed",
+      "sourcePage": 10,
+      "verify": false
+    },
+    {
+      "id": "dish-106",
+      "category": "Special Kulhad Lassi",
+      "name": "Lassi 300 ml",
+      "price": 50,
+      "priceType": "fixed",
+      "sourcePage": 10,
+      "verify": false
+    },
+    {
+      "id": "dish-107",
+      "category": "Juice",
+      "name": "Carrot Juice",
+      "price": 40,
+      "priceType": "fixed",
+      "sourcePage": 10,
+      "verify": false
+    },
+    {
+      "id": "dish-108",
+      "category": "Juice",
+      "name": "Mango Juice",
