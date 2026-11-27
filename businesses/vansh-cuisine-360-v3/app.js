@@ -1,5 +1,5 @@
 'use strict';
-const WA='919368576489';
+const WA='918104689152';
 let menuData={categories:[],items:[]},selectedCategory='All',cart=loadJSON('vc360_cart',{}),deferredInstall=null,lastOrder='';
 const $=id=>document.getElementById(id), money=n=>'₹'+Number(n||0).toLocaleString('en-IN');
 function loadJSON(k,fallback){try{return JSON.parse(localStorage.getItem(k))??fallback}catch{return fallback}}
