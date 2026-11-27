@@ -1,6 +1,6 @@
 'use strict';
 const PREFIX='vansh-cuisine-360-v3-';
-const CACHE=PREFIX+'2026-11-27-1';
+const CACHE=PREFIX+'2026-11-27-2';
 const CORE=['./','./index.html','./style.css','./app.js','./menu-data.json','./manifest.json','./assets/icons/icon-192.svg','./assets/icons/icon-512.svg','./assets/images/hero-pizza.svg','./assets/images/indian-thali.svg','./assets/images/restaurant-interior.svg'];
 const SCOPE=new URL(self.registration.scope);
 self.addEventListener('install',event=>event.waitUntil((async()=>{const c=await caches.open(CACHE);await Promise.all(CORE.map(async p=>{try{const r=await fetch(new URL(p,SCOPE),{cache:'reload'});if(r.ok)await c.put(new URL(p,SCOPE),r)}catch(e){}}));await self.skipWaiting()})()));
