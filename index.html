@@ -1,3 +1,65 @@
 <!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#0b1020"><title>WONDER WORLD BUSINESS HUB</title><style>
-*{box-sizing:border-box}body{margin:0;font:16px/1.6 system-ui,sans-serif;background:#0b1020;color:#f8fafc}main{max-width:960px;margin:auto;padding:32px 18px}.brand{color:#facc15;font-size:13px;letter-spacing:2px;font-weight:800}h1{font-size:clamp(32px,7vw,58px);line-height:1.05;margin:12px 0}p{color:#cbd5e1}.card{margin-top:28px;padding:24px;border:1px solid #334155;border-radius:22px;background:linear-gradient(145deg,#172554,#111827)}a{display:inline-block;margin-top:14px;padding:12px 18px;border-radius:12px;background:#facc15;color:#111827;text-decoration:none;font-weight:800}small{color:#94a3b8}</style></head><body><main><div class="brand">WONDER WORLD · BUSINESS NETWORK</div><h1>WONDER WORLD<br>BUSINESS HUB</h1><p>A growing directory of independent business experiences and customer services.</p><section class="card"><small>FEATURED BUSINESS · RESTAURANT</small><h2>VANSH CUISINE 360</h2><p>Explore the digital menu, add dishes to your cart, and prepare an order or party enquiry through WhatsApp. Restaurant confirmation is required.</p><a href="./businesses/vansh-cuisine-360/index.html">Open Restaurant Menu</a></section><p><small>More business partners and categories will be added in future releases.</small></p></main></body></html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#0b1020">
+<meta name="description" content="WONDER WORLD BUSINESS HUB — discover featured businesses and customer experiences.">
+<title>WONDER WORLD BUSINESS HUB</title>
+<style>
+:root{color-scheme:dark;--gold:#f6c453;--ink:#0b1020;--muted:#b9c3d5}
+*{box-sizing:border-box}
+body{margin:0;font:16px/1.6 system-ui,-apple-system,Segoe UI,sans-serif;background:radial-gradient(ellipse at 85% 0%,#25345d 0,transparent 42%),var(--ink);color:#f8fafc;min-height:100vh}
+main{width:min(1080px,100%);margin:auto;padding:clamp(24px,5vw,56px) 18px}
+.brand{color:var(--gold);font-size:12px;letter-spacing:2.5px;font-weight:900}
+h1{font-size:clamp(34px,7vw,62px);line-height:1.02;letter-spacing:-1.5px;margin:14px 0}
+.intro{max-width:650px;color:var(--muted);font-size:17px;margin:0}
+.section-label{margin:42px 0 14px;color:#cbd5e1;font-size:12px;letter-spacing:2px;font-weight:900}
+.feature{position:relative;isolation:isolate;overflow:hidden;display:grid;grid-template-columns:1.25fr .75fr;gap:24px;align-items:center;padding:clamp(22px,4vw,42px);border:1px solid rgba(246,196,83,.55);border-radius:28px;background:linear-gradient(120deg,rgba(54,37,24,.97),rgba(19,25,43,.98) 62%,rgba(28,39,68,.98));box-shadow:0 24px 70px rgba(0,0,0,.32)}
+.feature:before{content:"";position:absolute;z-index:-1;width:340px;height:340px;right:4%;top:-45%;border-radius:50%;background:radial-gradient(circle,rgba(246,196,83,.24),transparent 68%)}
+.feature-copy{min-width:0}
+.eyebrow{display:inline-flex;align-items:center;gap:8px;padding:7px 12px;border-radius:999px;background:rgba(246,196,83,.13);border:1px solid rgba(246,196,83,.38);color:#ffdf91;font-size:11px;font-weight:900;letter-spacing:1.5px}
+h2{font-size:clamp(29px,5vw,48px);line-height:1.08;letter-spacing:-1px;margin:17px 0 10px}
+.tagline{color:#ffdf91;font-weight:800;letter-spacing:1px;font-size:13px}
+.desc{color:#d5dbea;max-width:570px;margin:14px 0 20px}
+.features{display:flex;flex-wrap:wrap;gap:9px;margin:0 0 24px}
+.features span{font-size:12px;color:#e8edf7;border:1px solid rgba(255,255,255,.16);background:rgba(255,255,255,.06);padding:7px 10px;border-radius:999px}
+.cta{display:inline-flex;align-items:center;gap:10px;padding:13px 19px;border-radius:13px;background:linear-gradient(135deg,#ffe39a,var(--gold));color:#21170a;text-decoration:none;font-weight:900;box-shadow:0 8px 24px rgba(246,196,83,.2);transition:transform .2s,box-shadow .2s}
+.cta:hover{transform:translateY(-2px);box-shadow:0 12px 28px rgba(246,196,83,.3)}
+.cta:focus-visible{outline:3px solid white;outline-offset:4px}
+.visual{min-height:220px;display:grid;place-items:center;position:relative}
+.plate{width:min(250px,70vw);aspect-ratio:1;border-radius:50%;display:grid;place-items:center;font-size:clamp(90px,15vw,145px);background:radial-gradient(circle at 50% 45%,#fff8e9 0 42%,#d8c9ae 43% 47%,#fff 48% 54%,#9b6b37 55% 58%,#172033 59%);box-shadow:0 22px 48px rgba(0,0,0,.38);transform:rotate(-8deg)}
+.visual-note{position:absolute;right:0;bottom:10px;background:#111827;border:1px solid rgba(246,196,83,.5);border-radius:13px;padding:10px 13px;color:#ffe39a;font-size:11px;font-weight:900;letter-spacing:1px}
+footer{margin-top:28px;color:#8290a8;font-size:12px}
+@media(max-width:700px){.feature{grid-template-columns:1fr;gap:4px}.visual{min-height:190px;grid-row:1}.plate{width:178px}.visual-note{right:3%;bottom:0}.section-label{margin-top:32px}}
+@media(prefers-reduced-motion:reduce){.cta{transition:none}.cta:hover{transform:none}}
+</style>
+</head>
+<body>
+<main>
+  <div class="brand">WONDER WORLD · BUSINESS NETWORK</div>
+  <h1>WONDER WORLD<br>BUSINESS HUB</h1>
+  <p class="intro">Discover featured businesses, explore their services, and connect directly with the experiences you love.</p>
+
+  <div class="section-label">✦ FEATURED BUSINESS · RESTAURANT</div>
+  <section class="feature" aria-labelledby="vansh-title">
+    <div class="feature-copy">
+      <span class="eyebrow">✦ HIGHLIGHTED BUSINESS</span>
+      <h2 id="vansh-title">VANSH CUISINE 360</h2>
+      <div class="tagline">A SMARTER WAY TO EXPLORE YOUR FOOD</div>
+      <p class="desc">Explore the digital menu, discover food categories, add your favorites to the cart, and send an order or party enquiry directly through WhatsApp. Final order confirmation is provided by the restaurant.</p>
+      <div class="features" aria-label="Restaurant features">
+        <span>Digital Menu</span><span>Cart & Order Request</span><span>WhatsApp Enquiry</span><span>Party / Function Enquiry</span>
+      </div>
+      <a class="cta" href="./businesses/vansh-cuisine-360/index.html" aria-label="Open VANSH CUISINE 360 restaurant experience">Explore Restaurant <span aria-hidden="true">→</span></a>
+    </div>
+    <div class="visual" aria-hidden="true">
+      <div class="plate">🍽️</div>
+      <div class="visual-note">MENU · ORDER · ENJOY</div>
+    </div>
+  </section>
+
+  <footer>WONDER WORLD BUSINESS HUB · More business partners and categories will be added in future releases.</footer>
+</main>
+</body>
+</html>
